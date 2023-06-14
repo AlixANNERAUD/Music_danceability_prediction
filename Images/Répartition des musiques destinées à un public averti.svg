@@ -6,11 +6,11 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-06-14T01:27:15.571332</dc:date>
+    <dc:date>2023-06-14T17:17:56.022826</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.7.1, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -48,7 +48,6 @@ C 244.621363 281.40347 257.38568 279.615731 269.526652 275.607978
 C 281.667624 271.600225 292.987797 265.437638 302.943694 257.416079 
 C 312.899591 249.394521 321.329294 239.64445 327.828098 228.633963 
 L 236.16 174.528 
-L 342.6048 174.528 
 z
 " style="fill: #1f77b4"/>
    </g>
@@ -57,7 +56,6 @@ z
 C 332.643518 220.475521 336.348309 211.710613 338.844196 202.571741 
 C 341.340083 193.432868 342.6048 184.00156 342.6048 174.527995 
 L 236.16 174.528 
-L 327.828098 228.633963 
 z
 " style="fill: #ff7f0e"/>
    </g>
@@ -65,7 +63,7 @@ z
    <g id="matplotlib.axis_2"/>
    <g id="text_1">
     <!-- Non-explicite -->
-    <g transform="translate(57.51051 146.439258)scale(0.1 -0.1)">
+    <g transform="translate(57.51051 146.439258) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
 L 1478 4666 
@@ -273,7 +271,7 @@ z
    </g>
    <g id="text_2">
     <!-- 91.5% -->
-    <g transform="translate(158.665889 160.461129)scale(0.1 -0.1)">
+    <g transform="translate(158.665889 160.461129) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-39" d="M 703 97 
 L 703 672 
@@ -408,7 +406,7 @@ z
    </g>
    <g id="text_3">
     <!-- Explicite -->
-    <g transform="translate(349.112615 208.13549)scale(0.1 -0.1)">
+    <g transform="translate(349.112615 208.13549) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-45" d="M 628 4666 
 L 3578 4666 
@@ -439,7 +437,7 @@ z
    </g>
    <g id="text_4">
     <!-- 8.5% -->
-    <g transform="translate(285.068174 194.113619)scale(0.1 -0.1)">
+    <g transform="translate(285.068174 194.113619) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-38" d="M 2034 2216 
 Q 1584 2216 1326 1975 
@@ -489,7 +487,7 @@ z
    </g>
    <g id="text_5">
     <!-- Répartition des musiques destinées à un public averti -->
-    <g transform="translate(74.563125 35.472)scale(0.12 -0.12)">
+    <g transform="translate(74.563125 35.472) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-52" d="M 2841 2188 
 Q 3044 2119 3236 1894 
@@ -543,11 +541,11 @@ Q 1594 3097 1305 2825
 Q 1016 2553 972 2059 
 L 3022 2063 
 z
-M 2469 5119 
-L 3091 5119 
-L 2072 3944 
-L 1594 3944 
-L 2469 5119 
+M 2466 5119 
+L 3088 5119 
+L 2070 3944 
+L 1591 3944 
+L 2466 5119 
 z
 " transform="scale(0.015625)"/>
       <path id="DejaVuSans-61" d="M 2194 1759 
@@ -771,7 +769,7 @@ z
 M 1403 5119 
 L 2284 3950 
 L 1806 3950 
-L 788 5119 
+L 787 5119 
 L 1403 5119 
 z
 " transform="scale(0.015625)"/>
