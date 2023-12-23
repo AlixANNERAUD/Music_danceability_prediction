@@ -1,4 +1,4 @@
-# 💃 Music danceabilit prediction
+# 💃 Music danceability prediction
 
 ## 🚀 Introduction
 
