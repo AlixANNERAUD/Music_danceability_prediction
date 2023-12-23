@@ -26,7 +26,7 @@ Make sure you have the following installed:
 
 ### 🚀 Usage 
 
-Just run the `Projet.ipynb` with Jupyther in the root directory.
+Just run the `Projet.ipynb` with Jupyter in the root directory.
 
 ## ℹ️ About
 
