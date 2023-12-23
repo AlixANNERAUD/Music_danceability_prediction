@@ -35,5 +35,5 @@ The authors are :
 - Myriem ABID
 - Amandine BURÇON
 
-This project is under (MIT license)(LICENSE).
+This project is under [MIT license](LICENSE).
 
