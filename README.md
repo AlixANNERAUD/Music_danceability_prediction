@@ -1,4 +1,4 @@
-# 💃 Music danceability prediction
+<h1 align="center">💃 Music danceability prediction 🕺</h1>
 
 ## 🚀 Introduction
 
@@ -30,7 +30,7 @@ Just run the `Projet.ipynb` with Jupyter in the root directory.
 
 ## ℹ️ About
 
-The authors are :
+This project was made by :
 - Alix ANNERAUD
 - Myriem ABID
 - Amandine BURÇON
